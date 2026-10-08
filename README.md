@@ -9,8 +9,6 @@ I am currently interested in roles that bring Python into day-to-day analytical 
 - **Healthcare and supply-chain analytics:** Built and maintained executive scorecards, operational dashboards, reconciliation controls, and large-scale data-quality workflows. Employer code, data, and screenshots are confidential and are therefore described only at a high level.
 - **Expertiza maintenance:** Contributed targeted Ruby on Rails fixes to an established open-source peer-review platform, including questionnaire sequence behavior, parameter and view updates, removal of unused functions, and controller-test revisions.
 
-Currently developing a new Python-based analytics and machine-learning project for this profile.
-
 ## Tools and areas of interest
 
 `Python` · `SQL` · `Power BI` · `DAX` · `Power Query` · `Data Quality` · `Analytics Engineering` · `Machine Learning` · `NLP` · `Ruby on Rails` · `PostgreSQL`
